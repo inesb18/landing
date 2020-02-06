@@ -1,0 +1,22 @@
+.cards {
+  margin: 120px 10%;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.card {
+  width: 250px;
+  box-shadow: 0 0 10px rgba(235,222,160,0.8);
+  padding: 30px;
+  position: relative;
+}
+
+.card-image {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.card h2,
+.card p {
+  text-align: center;
+}

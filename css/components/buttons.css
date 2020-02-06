@@ -1,0 +1,16 @@
+.btn-mayoga {
+  color: rgba(0,0,0,0.7);
+  border: 2px solid rgba(0,0,0,0.7);
+  border-radius: 50px;
+  padding: 12px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  transition: 0.3s;
+  display: inline-block;
+}
+
+.btn-mayoga:hover {
+  color: #d9b93e;
+  border-color: #d9b93e;
+  opacity: 1;
+}
