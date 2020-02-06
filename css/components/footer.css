@@ -5,3 +5,15 @@
   background-color: rgba(235,222,160,0.2);
   box-shadow: 0 0 20px rgba(0,0,0,0.2);
 }
+
+.footer-link {
+  color: #d9b93e;
+}
+
+.footer-link:hover {
+  font-weight: bold;
+}
+
+.footer .fas.fa-heart {
+  color: #d9b93e;
+}
